@@ -1,2 +1,2 @@
-# SubModule Children A
+# Children A
 
